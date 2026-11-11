@@ -1,0 +1,6 @@
+{
+  "name": "HACKEA EL APRENDIZAJE",
+  "description": "Rediseña experiencias educativas con inteligencia artificial. Cátedra y laboratorio interactivo para NotebookLM, Perplexity, Copilot y ChatGPT/Coursera con DUA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
